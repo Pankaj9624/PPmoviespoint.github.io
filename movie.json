@@ -1,16 +1,16 @@
 [ {
-    "name": "Taaza khabar",
+    "name": "Taaza_khabar",
     "imdb": 8.4,
     "date": "2015",
     "sposter": "https://m.media-amazon.com/images/M/MV5BZmViNWI4Y2UtNTVkNC00ZGE1LWE3YjItYjhmNTEzZDhmMDQyXkEyXkFqcGdeQXVyMTUzNTA4MjAw._V1_FMjpg_UX1000_.jpg",
     "bposter": "https://www.jkyouth.com/wp-content/uploads/2023/01/1500x500.jpg",
     "type": "series",
-    "url": "Taaza khabar.html",
+    "url": "Taazakhabar.html",
     "trailer": "https://youtu.be/AuuX2j14NBg",
-    "low": "video/money heist 480ph.mp4",
+    "low": "",
     "medium": "https://drive.google.com/file/d/1JfYAoDR47f3LcO4T-PR5od_t1FsqZsBm/view?usp=share_link",
     "high": ""
-},{
+}, {
     "name": "Drishyam",
     "imdb": 8.2,
     "date": "2015",
@@ -144,7 +144,7 @@
     "name": "Uncharted",
     "imdb": 9.8,
     "date": "2022",
-    "sposter": "https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
+    "sposter": "jpghttps://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_.jpg",
     "bposter": "https://images.indianexpress.com/2022/02/Uncharted-1200.jpg",
     "genre": "Action",
     "type": "movie",
@@ -171,7 +171,7 @@
     "imdb": 8.0,
     "date": "2022",
     "sposter": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
-    "bposter": "https://m.media-amazon.com/images/M/MV5BMjExNzExNjIzM15BMl5BanBnXkFtZTcwMjA5NzAwOQ@@._V1_QL75_UX500_CR0,46,500,281_.jpg",
+    "bposter": "https://m.media-amazon.com/images/M/MV5BMjExNzExNjIzM15BMl5BanBnXkFtZTcwMjA5NzAwOQ@@._V1_QL75_UX500_CR0,46,500,281_.jpghttps://m.media-amazon.com/images/M/MV5BMjExNzExNjIzM15BMl5BanBnXkFtZTcwMjA5NzAwOQ@@._V1_QL75_UX500_CR0,46,500,281_.jpg",
     "genre": "Action",
     "type": "movie",
     "url": "topgun.html",
