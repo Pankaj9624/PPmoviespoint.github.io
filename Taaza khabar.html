@@ -102,7 +102,7 @@
         fetch(json_url).then(Response => Response.json())
             .then(data =>{
                 let movie_array = data.filter(ele => {
-                    return ele.name ==="Taazakhabar";
+                    return ele.name ==="Taaza khabar";
          
                 });
                 document.getElementById('title').innerText = movie_array[0].name;
