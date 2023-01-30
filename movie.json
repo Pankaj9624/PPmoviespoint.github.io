@@ -1,5 +1,5 @@
 [ {
-    "name": "Taaza khabar",
+    "name": "Taaza_khabar",
     "imdb": 8.4,
     "date": "2015",
     "sposter": "https://m.media-amazon.com/images/M/MV5BZmViNWI4Y2UtNTVkNC00ZGE1LWE3YjItYjhmNTEzZDhmMDQyXkEyXkFqcGdeQXVyMTUzNTA4MjAw._V1_FMjpg_UX1000_.jpg",
@@ -8,7 +8,7 @@
     "url": "Taaza khabar.html",
     "trailer": "https://youtu.be/AuuX2j14NBg",
     "low": "",
-    "medium": "https://drive.google.com/file/d/1JfYAoDR47f3LcO4T-PR5od_t1FsqZsBm/view?usp=sharing",
+    "medium": "",
     "high": ""
 }, {
     "name": "Drishyam",
@@ -20,9 +20,9 @@
     "type": "movie",
     "url": "Drishyam.html",
     "trailer": "https://youtu.be/AuuX2j14NBg",
-    "low": "video/money heist 480ph.mp4",
+    "low": "https://vclouds.sbs/jrcr1r1khupmo_p",
     "medium": "https://vclouds.sbs/jrcr1r1khupmo_p",
-    "high": ""
+    "high": "https://vclouds.sbs/jrcr1r1khupmo_p"
 }, {
     "name": "Deadpool",
     "imdb": 9.9,
@@ -34,7 +34,7 @@
     "url": "Deadpool.html",
     "trailer": "video/Deadpool Green Band Hindi Trailer 2016 F (You2Audio.Com).mp4",
     "low": "video/money heist 480ph.mp4",
-    "medium": "",
+    "medium": "https://vclouds.sbs/jrcr1r1khupmo_p",
     "high": "movies/Hollywood movies/Deadpool.(2016).1080p.Dual.Audio.(HinEng).[MoviesFlix.NeT].mkv"
 }, {
     "name": "Money Heist",
