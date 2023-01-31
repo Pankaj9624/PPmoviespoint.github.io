@@ -15,7 +15,7 @@
     </head>
     <body>
         <header>
-            <video src="" autoplay muted></video>
+            <video src="video/Deadpool Green Band Hindi Trailer 2016 F (You2Audio.Com).mp4" autoplay muted></video>
             <nav>
                 <div class="logo_ul">
                     <img src="img/logo.png" alt="">
@@ -48,21 +48,21 @@
              </nav>
              <!-- The content or movies detail are entered here-->
              <div class="content">
-                <h1 id="title">Taaza khabhar</h1>
-                <p> The most recent news, updates and developments.
-                    
-                </p>
+                <h1 id="title">The Boys</h1>
+                <p> Superheroes are often as popular as celebrities, as influential as politicians,
+                     and sometimes even as revered as gods. But that's when they're using their powers 
+                     for good.</p>
                 <div class="details">
-                    <h6> Disney+Hotstar</h6>
-                    <h5 id="gen">Fantasy comedy, Thriller</h5>
+                    <h6>A Netflix Original Flim</h6>
+                    <h5 id="gen">Superhero fiction, Dark comedy,<br> Drama, Action fiction, Satire</h5>
                     <h4 id="date">2021</h4>
-                    <h3 id="rate"><span>IMDB</span><i class="bi bi-star-fill"></i>8.4/10</h3>
+                    <h3 id="rate"><span>IMDB</span><i class="bi bi-star-fill"></i>8.7/10</h3>
                 </div>
                 <!-- making download and watch button-->
                 <div class="btns">
                     <a href="#"id="play">Watch<i class="bi bi-play-fill"></i></a>
                    
-                    <a href="#" download="Taaza khabar 720ph"id="medium_q">720p</a>
+                    <a href="#" download="Taaza Khabhar 720ph"id="medium_q">720p</a>
                     
                    
                    
@@ -102,7 +102,7 @@
         fetch(json_url).then(Response => Response.json())
             .then(data =>{
                 let movie_array = data.filter(ele => {
-                    return ele.name ==="Taaza khabar";
+                    return ele.name ==="Taaza khabhar";
          
                 });
                 document.getElementById('title').innerText = movie_array[0].name;
