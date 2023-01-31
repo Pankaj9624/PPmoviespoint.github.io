@@ -1,14 +1,27 @@
 [ {
+    "name": "pathaan",
+    "imdb": 6.9,
+    "date": "2023",
+    "sposter": "https://upload.wikimedia.org/wikipedia/en/c/c3/Pathaan_film_poster.jpg",
+    "bposter": "https://images.indianexpress.com/2023/01/pathaan-3.jpg?w=414",
+    "genre": "Action",
+    "type": "movie",
+    "url": "pathaan.html",
+    "trailer": "",
+    "low": "https://drive.google.com/file/d/1JfYAoDR47f3LcO4T-PR5od_t1FsqZsBm/view?usp=share_link",
+    "medium": "https://vclouds.sbs/q7ijondynpdy1uy",
+    "high": "https://vclouds.sbs/q7ijondynpdy1uy"
+},{
     "name": "Taaza khabar",
     "imdb": 8.4,
     "date": "2015",
     "sposter": "https://m.media-amazon.com/images/M/MV5BZmViNWI4Y2UtNTVkNC00ZGE1LWE3YjItYjhmNTEzZDhmMDQyXkEyXkFqcGdeQXVyMTUzNTA4MjAw._V1_FMjpg_UX1000_.jpg",
     "bposter": "https://www.jkyouth.com/wp-content/uploads/2023/01/1500x500.jpg",
     "type": "series",
-    "url": "Taaza khabhar.html",
+    "url": "Taaza khabar.html",
     "trailer": "https://youtu.be/AuuX2j14NBg",
     "low": "",
-    "medium": "https://drive.google.com/file/d/1JfYAoDR47f3LcO4T-PR5od_t1FsqZsBm/view?usp=share_link",
+    "medium": "",
     "high": ""
 }, {
     "name": "Drishyam",
@@ -20,9 +33,9 @@
     "type": "movie",
     "url": "Drishyam.html",
     "trailer": "https://youtu.be/AuuX2j14NBg",
-    "low": "https://vclouds.sbs/jrcr1r1khupmo_p",
+    "low": "https://drive.google.com/file/d/1JfYAoDR47f3LcO4T-PR5od_t1FsqZsBm/view?usp=share_link",
     "medium": "https://vclouds.sbs/jrcr1r1khupmo_p",
-    "high": "https://vclouds.sbs/jrcr1r1khupmo_p"
+    "high": "https://vclouds.sbs/q7ijondynpdy1uy"
 }, {
     "name": "Deadpool",
     "imdb": 9.9,
@@ -33,9 +46,9 @@
     "type": "movie",
     "url": "Deadpool.html",
     "trailer": "video/Deadpool Green Band Hindi Trailer 2016 F (You2Audio.Com).mp4",
-    "low": "",
-    "medium": "",
-    "high": ""
+    "low": "video/money heist 480ph.mp4",
+    "medium": "https://vclouds.sbs/jrcr1r1khupmo_p",
+    "high": "https://vclouds.sbs/q7ijondynpdy1uy"
 }, {
     "name": "Money Heist",
     "imdb": 9.9,
