@@ -47,8 +47,8 @@
     "url": "Deadpool.html",
     "trailer": "video/Deadpool Green Band Hindi Trailer 2016 F (You2Audio.Com).mp4",
     "low": "video/money heist 480ph.mp4",
-    "medium": "",
-    "high": "movies/Hollywood movies/Deadpool.(2016).1080p.Dual.Audio.(HinEng).[MoviesFlix.NeT].mkv"
+    "medium": "https://vclouds.sbs/olomlcqr6zmanpq",
+    "high": "https://vclouds.sbs/q7ijondynpdy1uy"
 }, {
     "name": "Money Heist",
     "imdb": 9.9,
@@ -57,15 +57,19 @@
     "bposter": "https://pbs.twimg.com/media/ES6jwLpUMAIqhK0.jpg:large",
     "genre": "Action",
     "type": "series",
-    "url": "movies link/money heist.html",
+    "url": "money heist.html",
     "trailer": "john wick trailer.mp4",
     "low": "https://vclouds.sbs/vyhx5g5qcukwzxz",
     "medium": "https://vclouds.sbs/8pnbs01szpnpj1n",
-    "high": "https://vclouds.sbs/-yzckkf9ookazyo"
+    "high": "https://vclouds.sbs/-yzckkf9ookazyo",
+    "seasion_4": "https://vclouds.sbs/0u_vblwuamlsrlu",
+    "seasion_5": "https://vclouds.sbs/umribioxinhlmfv",
+    "seasion_6": "https://vclouds.sbs/kzufpnpzagzzfkl"
+    
 }, {
     "name": "John_Wick",
     "imdb": 7.5,
-    "date": "2022",
+    "date": "2014",
     "sposter": "https://rukminim1.flixcart.com/image/416/416/kxtaxzk0/poster/a/b/y/medium-john-wick-john-wick-chapter-3-keanu-reeves-movie-poster-original-imaga6jqtsgrgn6f.jpeg?q=70",
     "bposter": "https://static-prod.adweek.com/wp-content/uploads/2019/05/john-wick-poster-qa-hed-page-2019.jpg",
     "genre": "Action",
